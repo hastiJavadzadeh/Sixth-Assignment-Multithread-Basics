@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="sbu.cs.FindMultiplesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-03T16:43:55" hostname="DESKTOP-0E54QNC" time="0.016">
+<testsuite name="sbu.cs.FindMultiplesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-05T15:27:52" hostname="DESKTOP-0E54QNC" time="0.019">
   <properties/>
-  <testcase name="testFive()" classname="sbu.cs.FindMultiplesTest" time="0.016"/>
+  <testcase name="testFive()" classname="sbu.cs.FindMultiplesTest" time="0.019"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
